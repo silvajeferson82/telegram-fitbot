@@ -1,0 +1,24 @@
+{
+  "name": "telegram-fitbot",
+  "version": "1.0.0",
+  "description": "“Chatbot no Telegram com JavaScript e NodeJS. Buscas de vídeos de exercícios físicos no YouTube utilizando uma plataforma de entendimento de linguagem natural chamada DialogFlow.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silvajeferson82/telegram-fitbot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/silvajeferson82/telegram-fitbot/issues"
+  },
+  "homepage": "https://github.com/silvajeferson82/telegram-fitbot#readme",
+  "dependencies": {
+    "dialogflow": "^1.2.0",
+    "node-telegram-bot-api": "^0.50.0",
+    "youtube-node": "^1.3.3"
+  }
+}
